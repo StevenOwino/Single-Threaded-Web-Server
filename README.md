@@ -1,5 +1,5 @@
-# Single-Threaded-Web-Server
 # Building a Web Server
+# Single-Threaded-Web-Server
 Create a new project from the terminal: 
 $ cargo new hello;
 $ cd hello;
