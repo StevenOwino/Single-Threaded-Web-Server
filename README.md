@@ -4,7 +4,7 @@
 Create a new project from the terminal: 
 
 $ cargo new hello;
-Creats binary (application) `hello` package
+Creates binary (application) `hello` package
 $ cd hello
 $ cargo run 'hello'
 
