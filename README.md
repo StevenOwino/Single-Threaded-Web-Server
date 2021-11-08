@@ -5,6 +5,9 @@ Create a new project from the terminal:
 
 $ cargo new hello;
 Creates binary (application) `hello` package
+
+Copy both the "hello.html" and "404.html" files at the root directory folder "hello".
+
 $ cd hello
 $ cargo run 'hello'
 
