@@ -7,6 +7,7 @@ $ cargo new hello;
 Creates binary (application) `hello` package
 
 Copy both the "hello.html" and "404.html" files at the root directory folder "hello".
+Copy the "main.rs" file to the "src" folder
 
 $ cd hello
 $ cargo run 'hello'
